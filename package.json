@@ -1,0 +1,24 @@
+{
+  "name": "lessi",
+  "version": "0.0.1",
+  "description": "A CMS based on serverless technologies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raeesbhatti/lessi.git"
+  },
+  "keywords": [
+    "cms",
+    "serverless",
+    "lessi"
+  ],
+  "author": "Raees Iqbal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/raeesbhatti/lessi/issues"
+  },
+  "homepage": "https://github.com/raeesbhatti/lessi#readme"
+}
